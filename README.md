@@ -93,6 +93,10 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## CDN and Protection
   * http://www.cloudflare.com/ - Basic service is free, good for a blog etc
   * http://www.bootstrapcdn.com/ - CDN for bootstrap, bootswatch and font awesome
+  * http://www.jsdelivr.com - Public, open-source CDN using MaxCDN and Cloudflare as providers. Over 1100 js/css projects hosted.
+  * https://cdnjs.com/ - "cdnjs will host any production version of any JavaScript/CSS library" Over 1100 js/css/img/font libraries hosted.
+  * http://www.cdnperf.com/ - Top, free JavaScript CDN stats including latency, uptime, and downtime.
+
 
 ## PaaS
 
